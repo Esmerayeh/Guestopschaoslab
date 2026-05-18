@@ -141,7 +141,7 @@ export default function DashboardPage() {
                   <XAxis dataKey="name" stroke="#64748B" fontSize={11} tickLine={false} axisLine={false} />
                   <YAxis stroke="#64748B" fontSize={11} tickLine={false} axisLine={false} domain={[0, 5]} />
                   <Tooltip contentStyle={{ background: "#07111F", border: "1px solid rgba(255,255,255,.1)", borderRadius: 8, color: "#F8FAFC" }} />
-                  <Bar dataKey="score" fill="#1D6BFF" radius={[4, 4, 0, 0]} />
+                  <Bar dataKey="score" fill="#1D6BFF" radius={[4, 4, 0, 0]} isAnimationActive={false} />
                 </BarChart>
               </ResponsiveContainer>
             </div>
