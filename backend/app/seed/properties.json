@@ -1,0 +1,24 @@
+[
+  {
+    "id": "DXB-MARINA-07",
+    "name": "Marina Seven Residence",
+    "location": "Dubai Marina",
+    "property_type": "serviced apartment",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": "DXB-OLDTOWN-12",
+    "name": "Old Town Courtyard Suite",
+    "location": "Downtown Dubai",
+    "property_type": "boutique apartment",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": "DXB-BAY-03",
+    "name": "Business Bay Executive Loft",
+    "location": "Business Bay",
+    "property_type": "corporate stay",
+    "timezone": "Asia/Dubai"
+  }
+]
+

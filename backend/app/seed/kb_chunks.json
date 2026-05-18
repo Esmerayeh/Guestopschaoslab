@@ -1,0 +1,91 @@
+[
+  {
+    "id": "kb_access_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Access code release policy",
+    "category": "check_in",
+    "content": "Access codes may only be shared after the reservation is confirmed and the guest identity matches the booking record. If lookup fails or the guest is locked out, create an urgent case and hand off to L2 Operations.",
+    "source_type": "ops_policy"
+  },
+  {
+    "id": "kb_checkout_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Checkout and late checkout",
+    "category": "checkout",
+    "content": "Standard checkout is 11:00 AM. Late checkout is subject to availability and must be approved by operations. Guests should not be promised late checkout without confirmation.",
+    "source_type": "property_policy"
+  },
+  {
+    "id": "kb_early_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Early check-in",
+    "category": "check_in",
+    "content": "Standard check-in is 3:00 PM. Early check-in may be possible only after housekeeping confirms readiness and operations approves the exception.",
+    "source_type": "property_policy"
+  },
+  {
+    "id": "kb_refund_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Compensation and refunds",
+    "category": "refunds",
+    "content": "Refunds and compensation require manager approval. Agents may acknowledge the concern, create a case, and escalate, but must not promise a refund or specific compensation amount.",
+    "source_type": "ops_policy"
+  },
+  {
+    "id": "kb_maintenance_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Urgent maintenance",
+    "category": "maintenance",
+    "content": "AC failure, water leaks, lock failures, and power issues are urgent operational cases. Create a maintenance case and hand off to L2 Operations. Avoid giving fake resolution times.",
+    "source_type": "ops_policy"
+  },
+  {
+    "id": "kb_safety_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Safety escalation",
+    "category": "safety",
+    "content": "Smoke smell, broken locks, gas smell, fire alarms, or security threats are critical safety events. Tell the guest to prioritize safety, contact emergency services when appropriate, create an urgent case, and hand off immediately.",
+    "source_type": "safety_policy"
+  },
+  {
+    "id": "kb_amenities_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Amenities",
+    "category": "amenities",
+    "content": "Marina Seven Residence includes gym access and a ground-floor cafe. It does not have a rooftop pool. The nearest public beach is a 12-minute walk away.",
+    "source_type": "property_faq"
+  },
+  {
+    "id": "kb_identity_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Identity verification",
+    "category": "privacy",
+    "content": "Do not disclose reservation details, access codes, or guest-specific information if the guest name or phone number does not match the booking record. Ask for booking confirmation and escalate if needed.",
+    "source_type": "privacy_policy"
+  },
+  {
+    "id": "kb_upsell_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Airport pickup",
+    "category": "services",
+    "content": "Airport pickup can be arranged through the partner transfer desk. Collect arrival time, flight number, passenger count, and luggage count, then create a sales case for confirmation.",
+    "source_type": "service_catalog"
+  },
+  {
+    "id": "kb_channel_01",
+    "property_id": "DXB-MARINA-07",
+    "title": "Channel continuity",
+    "category": "messaging",
+    "content": "When a guest switches channels, retain the conversation context if the booking and identity are clear. If identity is uncertain, verify before sharing sensitive information.",
+    "source_type": "ops_policy"
+  },
+  {
+    "id": "kb_oldtown_noise_01",
+    "property_id": "DXB-OLDTOWN-12",
+    "title": "Complaint handling",
+    "category": "guest_support",
+    "content": "For ambiguous complaints, ask one concise clarifying question, acknowledge the guest concern, and offer specific next steps once the issue is known.",
+    "source_type": "ops_policy"
+  }
+]
+

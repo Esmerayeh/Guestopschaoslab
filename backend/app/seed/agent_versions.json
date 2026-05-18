@@ -1,0 +1,25 @@
+[
+  {
+    "id": "baseline_agent",
+    "name": "Baseline Agent",
+    "description": "Prompt-only concierge with shallow lookup and limited guardrails.",
+    "model_name": "deterministic-mock",
+    "temperature": 0.2,
+    "config": {
+      "uses_structured_decision": false,
+      "guardrails": "minimal"
+    }
+  },
+  {
+    "id": "guarded_agent",
+    "name": "Guarded Agent",
+    "description": "Structured workflow agent with tool-use discipline, escalation rules, and policy lock.",
+    "model_name": "deterministic-mock",
+    "temperature": 0.1,
+    "config": {
+      "uses_structured_decision": true,
+      "guardrails": "strict"
+    }
+  }
+]
+

@@ -1,0 +1,69 @@
+[
+  {
+    "booking_id": "BK-2041",
+    "guest_name": "Maya Kapoor",
+    "guest_phone": "+971500001111",
+    "property_id": "DXB-MARINA-07",
+    "check_in": "2026-05-22T15:00:00",
+    "check_out": "2026-05-25T11:00:00",
+    "status": "confirmed",
+    "channel": "Airbnb",
+    "metadata": {
+      "adults": 2,
+      "notes": "Anniversary trip"
+    }
+  },
+  {
+    "booking_id": "BK-3377",
+    "guest_name": "Daniel Reyes",
+    "guest_phone": "+971500002222",
+    "property_id": "DXB-MARINA-07",
+    "check_in": "2026-05-18T15:00:00",
+    "check_out": "2026-05-21T11:00:00",
+    "status": "in_house",
+    "channel": "WhatsApp",
+    "metadata": {
+      "adults": 1
+    }
+  },
+  {
+    "booking_id": "BK-5509",
+    "guest_name": "Sofia Nasser",
+    "guest_phone": "+971500003333",
+    "property_id": "DXB-MARINA-07",
+    "check_in": "2026-05-20T15:00:00",
+    "check_out": "2026-05-24T11:00:00",
+    "status": "confirmed",
+    "channel": "Booking.com",
+    "metadata": {
+      "adults": 3
+    }
+  },
+  {
+    "booking_id": "BK-7788",
+    "guest_name": "Priya Shah",
+    "guest_phone": "+971500004444",
+    "property_id": "DXB-MARINA-07",
+    "check_in": "2026-05-19T15:00:00",
+    "check_out": "2026-05-23T11:00:00",
+    "status": "in_house",
+    "channel": "Airbnb",
+    "metadata": {
+      "adults": 2
+    }
+  },
+  {
+    "booking_id": "BK-8810",
+    "guest_name": "Nora Lee",
+    "guest_phone": "+971500005555",
+    "property_id": "DXB-OLDTOWN-12",
+    "check_in": "2026-05-21T15:00:00",
+    "check_out": "2026-05-26T11:00:00",
+    "status": "confirmed",
+    "channel": "WhatsApp",
+    "metadata": {
+      "adults": 1
+    }
+  }
+]
+
