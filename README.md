@@ -20,7 +20,7 @@ Watch the captioned 112-second walkthrough: [GuestOps Chaos Lab Demo](./assets/v
 
 ## Live Demo
 
-Add the deployed Vercel/Render demo link before sending the submission. Do not use a localhost URL as the live demo.
+Open the deployed app: [GuestOps Chaos Lab](https://guestopschaoslab.vercel.app)
 
 ## Screenshots
 
