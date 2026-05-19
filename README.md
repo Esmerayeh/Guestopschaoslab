@@ -16,7 +16,7 @@ GuestOps Chaos Lab is a reliability simulator for hospitality AI concierge agent
 
 ## Demo Video
 
-Add the recorded walkthrough link before sending the submission.
+Watch the captioned 112-second walkthrough: [GuestOps Chaos Lab Demo](./assets/videos/guestops-chaos-lab-demo.mp4)
 
 ## Live Demo
 
