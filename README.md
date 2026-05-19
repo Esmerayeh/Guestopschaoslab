@@ -24,8 +24,6 @@ Add the deployed Vercel/Render demo link before sending the submission. Do not u
 
 ## Screenshots
 
-Capture these after the final deployed or local demo run:
-
 ### Homepage
 ![Homepage](./assets/screenshots/homepage.png)
 
